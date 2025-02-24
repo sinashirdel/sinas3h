@@ -3,4 +3,4 @@
 
 Check out my [portfolio](https://sina-portfolio-cv.vercel.app).
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,react,nextjs,vite,tailwind,mongodb,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,react,nextjs,vite,tailwind,figma)](https://skillicons.dev)<br/>
